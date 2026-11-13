@@ -464,7 +464,7 @@ The Streamlit web interface ([`app.py`](file:///c:/Users/Zohaib%20Umer/OneDrive/
 ## 👤 Author & Contact
 
 **Zohaib Umer**  
-*Generative AI & Machine Learning Engineer*
+*AI Engineer*
 
 - **GitHub:** [@zohaib-umer](https://github.com/zohaib-umer)
 - **Specialities:** Enterprise RAG Systems, LLM Agentic Workflows, Deep Learning Reranking, Production AI Architecture
